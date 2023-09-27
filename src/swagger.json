@@ -1,0 +1,11 @@
+ {
+    "swaggerDefinition": {
+      "info": {
+        "title": "Your API Documentation",
+        "version": "1.0.0",
+        "description": "API documentation for your TypeScript project"
+      },
+      "basePath": "/"
+    },
+    "apis": ["**/*.ts"]
+  }
